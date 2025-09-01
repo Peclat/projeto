@@ -1,0 +1,23 @@
+# Projeto DevOps Fundamentals 🚀
+
+[![Status do Build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/Peclat/projeto/actions)
+[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/Peclat/projeto/blob/main/LICENSE)
+
+Bem-vindo ao meu projeto **DevOps Fundamentals**! Aqui, apliquei conceitos de **CI/CD, versionamento de código, Git, pipelines e colaboração em equipe**, criando um projeto funcional e organizado.
+
+---
+
+## 🎯 Objetivo do Projeto
+O objetivo deste projeto é **praticar e demonstrar os conceitos de DevOps** aprendidos durante o curso, criando um ambiente de desenvolvimento versionado, com integração contínua e documentação completa.
+
+---
+
+## 🛠 Tecnologias Utilizadas
+- **Git** – Controle de versão  
+- **GitHub** – Hospedagem do repositório  
+- **CI/CD Pipelines** – Integração e entrega contínua  
+- [Adicionar outras tecnologias usadas no projeto]  
+
+---
+
+## 📁 Estrutura do Repositório
