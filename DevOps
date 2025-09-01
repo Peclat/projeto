@@ -21,3 +21,20 @@ O objetivo deste projeto é **praticar e demonstrar os conceitos de DevOps** apr
 ---
 
 ## 📁 Estrutura do Repositório
+
+DevOpsFundamentals/
+│
+├── README.md                  # Documentação do projeto (você vai colar o conteúdo que eu te passei)
+├── LICENSE                    # Licença do projeto (opcional, mas recomendado)
+│
+├── src/                       # Código-fonte do projeto
+│   ├── main/                  # Código principal
+│   └── utils/                 # Funções auxiliares ou bibliotecas
+│
+├── db/                        # Arquivos de banco de dados (ex.: .sql, .db)
+│
+├── design/                    # Templates, wireframes ou arquivos Figma
+│
+├── docs/                      # Documentação extra (como fluxogramas, notas ou diagramas)
+│
+└── .gitignore                 # Arquivo para ignorar arquivos desnecessários do Git
